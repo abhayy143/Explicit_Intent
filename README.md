@@ -11,5 +11,7 @@ We used the explicit intent but what exactly it is let's know it below.
 
 Explicit Intent:- It communicates between two activities inside the same application.🤝
 
+<bold> Example of Explicit Intent </bold>
+
 ![abc](https://user-images.githubusercontent.com/53009878/134225818-7021de32-51c5-4e09-9f0c-3c51d56888f7.jpg)
 
